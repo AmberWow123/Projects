@@ -1,0 +1,13 @@
+ReadMe
+
+
+
+
+
+
+
+
+
+Yi Ting Wang:
+
+I am doing the GUI part of this final project. For me, it is like the front of an app even though this project is not that complicate like apps that I have seen so far. I use the database which has been done from the back to interact with the user. Our discussion took a quite long time to decide the topic and what kind of modules we are going to use. But I like the team working that we discuss and work together to make our program able to run. Since this final project is dealing with bigger database and having more functionality and more complicated, it is a little bit challenging for me. I learned that designing the structure before coding is very important. Overall, it is really cool to learn GUI and use it in my final project. I feel like I am actually a programmer. 

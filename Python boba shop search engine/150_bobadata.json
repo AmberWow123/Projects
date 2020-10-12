@@ -1,0 +1,215 @@
+{
+   "Cupertino": {},
+   "San Jose": {
+      "Forever Yogurt and Bee & Tea": [
+         [
+            3.5,
+            "$$",
+            [
+               "1510 Monterey Rd",
+               "Ste 30",
+               "San Jose, CA 95110"
+            ],
+            9.5,
+            [
+               "Ice Cream & Frozen Yogurt",
+               "Bubble Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Lk Tea & Grill": [
+         [
+            4.0,
+            "$",
+            [
+               "2780 Aborn Rd",
+               "San Jose, CA 95121"
+            ],
+            13.9,
+            [
+               "Breakfast & Brunch",
+               "American (New)",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Heavenly Delights": [
+         [
+            3.5,
+            "$",
+            [
+               "6029 Snell Ave",
+               "San Jose, CA 95123"
+            ],
+            13.0,
+            [
+               "Desserts",
+               "Coffee & Tea",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Pho Boba": [
+         [
+            3.5,
+            "NULL",
+            [
+               "5815 Cottle Rd",
+               "San Jose, CA 95123"
+            ],
+            14.2,
+            [
+               "Vietnamese",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "Tasty Pot": [
+         [
+            4.0,
+            "$$",
+            [
+               "1183 S De Anza Blvd",
+               "Ste 30",
+               "San Jose, CA 95129"
+            ],
+            1.3,
+            [
+               "Taiwanese",
+               "Bubble Tea",
+               "Hot Pot"
+            ]
+         ]
+      ],
+      "Quickly": [
+         [
+            3.0,
+            "$",
+            [
+               "2200 Eastridge Loop",
+               "Ste 1091",
+               "San Jose, CA 95122"
+            ],
+            12.7,
+            [
+               "Bubble Tea",
+               "Asian Fusion",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Music Tunnel KTV Cafe": [
+         [
+            3.5,
+            "$$",
+            [
+               "1132 S De Anza Blvd",
+               "Ste 10",
+               "San Jose, CA 95129"
+            ],
+            1.2,
+            [
+               "Karaoke",
+               "Coffee & Tea",
+               "Juice Bars & Smoothies"
+            ]
+         ]
+      ],
+      "Coffee Lovers": [
+         [
+            3.5,
+            "NULL",
+            [
+               "1696 Tully Rd",
+               "San Jose, CA 95122"
+            ],
+            12.0,
+            [
+               "Bubble Tea",
+               "Cafes"
+            ]
+         ]
+      ],
+      "Jazen Tea": [
+         [
+            3.5,
+            "$",
+            [
+               "1834 Tully Rd",
+               "San Jose, CA 95122"
+            ],
+            12.1,
+            [
+               "Coffee & Tea"
+            ]
+         ],
+         [
+            2.5,
+            "$",
+            [
+               "925 Blossom Hill Dr",
+               "San Jose, CA 95123"
+            ],
+            11.0,
+            [
+               "Coffee & Tea",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "POP POT": [
+         [
+            3.5,
+            "$$",
+            [
+               "5293 Prospect Rd",
+               "Ste C",
+               "San Jose, CA 95129"
+            ],
+            3.3,
+            [
+               "Taiwanese",
+               "Hot Pot",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "BAMBU": [
+         [
+            3.5,
+            "$",
+            [
+               "1908 Aborn Rd",
+               "San Jose, CA 95121"
+            ],
+            12.8,
+            [
+               "Coffee & Tea",
+               "Juice Bars & Smoothies",
+               "Bubble Tea"
+            ]
+         ]
+      ],
+      "QQQ Tea": [
+         [
+            3.5,
+            "$",
+            [
+               "1600 S De Anza Blvd",
+               "Ste 20",
+               "San Jose, CA 95129"
+            ],
+            1.8,
+            [
+               "Coffee & Tea"
+            ]
+         ]
+      ]
+   },
+   "Mountain View": {},
+   "Palo Alto": {},
+   "Santa Clara": {},
+   "Sunnyvale": {},
+   "Saratoga": {}
+}
