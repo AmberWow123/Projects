@@ -1,0 +1,10 @@
+Guido van Rossum,CIS 41A,4.5,A-,POLI 1,5,C,ARTS 1A,4,B-
+Lisa Su,CIS 22A,4.5,B+,EWRT 2,5,B
+Linus Torvalds,CIS 18B,4.5,A,BIOL 10,5,C
+Grace Hopper,CIS 22A,4.5,A+,PHIL 4,4,B+
+Katherine Johnson,CIS 22C,4.5,A-,MATH 1B,5,A,PHYS 4A,6,B
+Carlos Guestrin,CIS 41A,4.5,A,BUS 55,5,A,BUS 18,5,B+,HUMI 16,4,A-
+Tammarrian Rogers,CIS 35A,4.5,A-,COMM 2,5,B
+Ima Student,CIS 40,4.5,C,KNES 1,0.5,F
+Steve Chen,CIS 41A,4.5,A,BUS 56,5,C+,COMM 1,5,A
+Satya Nadella,CIS 22C,4.5,B+,MATH 1DH,5,A-,BUS 65,5,A+

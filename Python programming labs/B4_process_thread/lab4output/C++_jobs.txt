@@ -1,0 +1,42 @@
+Apple Inc.                                        Cupertino                                         SQA/Automation Engineer - Setup and Migration     
+Apple Inc.                                        Cupertino                                         CloudKit Client SDET                              
+Lawrence Berkeley National Laboratory             Walnut Creek                                      Computer Systems Engineer                         
+Apple Inc.                                        Cupertino                                         Analytics Metrics Engineer, Apple Media Products, Analytics Engineering
+Apple Inc.                                        Cupertino                                         Siri - Data Engineer                              
+Fictiv                                            San Francisco                                     Software Engineer                                 
+Fictiv                                            San Francisco                                     Cloud Infrastructure Engineer                     
+Wealthfront                                       Redwood City                                      Senior Frontend Engineer                          
+Sharethrough                                      San Francisco                                     Backend Engineering (Scala+)                      
+Hippo Insurance                                   Mountain View                                     Senior Software Engineer                          
+Apple Inc.                                        Cupertino                                         NoSQL Architect, Apple Pay                        
+Sirius XM Radio Inc.                              San Francisco                                     Software Engineer, Full Stack - Automatic Labs    
+Apple Inc.                                        Cupertino                                         Maps Process Engineer                             
+Apple Inc.                                        Cupertino                                         Systems Software Engineer- iOS Backup             
+Apple Inc.                                        Cupertino                                         Camera - GPU Vision & Computational Photography Engineer
+Apple Inc.                                        Cupertino                                         Sr. Software Engineer, Siri Domains Foundation    
+Apple Inc.                                        Cupertino                                         Siri - Data Pipeline Engineer, Data organization  
+Apple Inc.                                        Cupertino                                         Siri - Full Stack Engineer, Data organization     
+Notable Labs                                      Foster City                                       Full Stack Software Engineer                      
+Treez inc                                         Oakland <CA or Seattle                            Sr. Full-Stack Software Engineer                  
+Treez Inc                                         Oakland                                           Director of Software Engineering - Cloud Platform 
+3Scan                                             San Francisco                                     Full Stack Web Developer / Web Team Lead          
+Lawrence Berkeley National Laboratory             Walnut Creek                                      Systems Infrastructure Lead                       
+Apple Inc.                                        Cupertino                                         Siri - Platform Engineer - Domains Frameworks     
+NinthDecimal                                      San Francisco                                     Platform Engineer                                 
+NinthDecimal                                      Mountain View                                     Platform Engineer                                 
+twoXAR                                            Mountain View                                     Principal Software Engineer                       
+Eaze                                              san francisco                                     Staff Backend Engineer                            
+Apple Inc.                                        Cupertino                                         Siri - iOS Engineer                               
+Apple Inc.                                        Cupertino                                         Siri - Software Engineer/Data Scientist           
+Apple Inc.                                        Cupertino                                         Siri - Speech iOS Engineer                        
+Apple Inc.                                        Cupertino                                         Siri - Speech Frameworks Engineer                 
+Apple Inc.                                        Cupertino                                         Finder UI Engineer                                
+Prezi                                             San Francisco                                     Lead Data Analyst                                 
+Prezi                                             San Francisco                                     Senior Full Stack Engineer                        
+Agilent                                           Santa Clara                                       Senior Algorithm Software Developer               
+BlueVine                                          Redwood City                                      Senior Python Developer                           
+Apple Inc.                                        Cupertino                                         Full Stack Engineer                               
+Bio-Rad Laboratories                              Pleasanton                                        Backend Web Developer (Software Developer III Non-IT)
+Traction                                          Sunnyvale                                         Lead Full Stack Developer                         
+CommunityVenturePartners                          Mill Valley                                       seeking webmaster assistance with frontend and backend.
+Resonate Capital, LLC                             San Francisco                                     Data Engineer, Hedge Fund                         
